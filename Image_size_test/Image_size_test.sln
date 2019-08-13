@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Image_size_test", "Image_size_test\Image_size_test.pyproj", "{D1A5F9D0-5BFD-4553-8CCF-3F0CFC14B18D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Image_size_label", "Image_size_label\Image_size_label.pyproj", "{5970CE09-43E2-430B-87CF-E0CE2051B1B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1A5F9D0-5BFD-4553-8CCF-3F0CFC14B18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A5F9D0-5BFD-4553-8CCF-3F0CFC14B18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5970CE09-43E2-430B-87CF-E0CE2051B1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5970CE09-43E2-430B-87CF-E0CE2051B1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E49710A-91E9-4978-BBB2-6D12942E7462}
+	EndGlobalSection
+EndGlobal
